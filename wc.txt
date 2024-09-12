@@ -1,0 +1,14 @@
+Q 2 . Using Query Options
+      ans : query process
+            query session
+            query termserver
+            query user
+
+q 3 .Execution of various file/directory handling commands.
+      Ans : //Command//                      //Description//                                 //Example//  
+              cd                  Changes the current working directory.                    cd Documents
+              ls               Lists files and directories in the current directory.              ls
+              pwd                      Prints the current working directory.                     pwd
+              mkdir                       Creates a new directory.                          mkdir new_folder
+              rmdir                    Removes an empty directory.                          rmdir empty_folder
+              mv                        Moves files or directories.                          mv file1.txt Documents/
